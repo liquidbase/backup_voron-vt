@@ -78,6 +78,14 @@
         "temp_bucket": 2,
         "timestamp": 1777336790,
         "total": 279
+      },
+      {
+        "phases": {
+          "7": 120
+        },
+        "temp_bucket": 2,
+        "timestamp": 1777352499,
+        "total": 338
       }
     ]
   },
@@ -118,7 +126,7 @@
           "material": "PLA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 179.7451171875,
+          "remaining_weight_g": 145.82159423828125,
           "spool_name": "",
           "spoolman_id": 0,
           "total_weight_g": 1000.0
@@ -563,10 +571,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 5.469729900360107
+        "heat_rate": 3.1224515438079834
       },
       "heater_bed": {
-        "heat_rate": 11.437743186950684
+        "heat_rate": 11.40446949005127
       }
     }
   },
