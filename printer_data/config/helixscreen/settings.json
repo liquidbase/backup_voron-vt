@@ -208,11 +208,11 @@
             "complete": {
               "action": "color",
               "brightness": 100,
-              "color": "#FFFFFF"
+              "color": "#66BB6A"
             },
             "error": {
               "action": "color",
-              "brightness": 100,
+              "brightness": 25,
               "color": "#FF4444"
             },
             "heating": {
