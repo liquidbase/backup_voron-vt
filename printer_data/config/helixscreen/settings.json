@@ -204,40 +204,7 @@
       "leds": {
         "auto_state": {
           "enabled": true,
-          "mappings": {
-            "complete": {
-              "action": "color",
-              "brightness": 46,
-              "color": "#66BB6A"
-            },
-            "error": {
-              "action": "color",
-              "brightness": 46,
-              "color": "#FF4444"
-            },
-            "heating": {
-              "action": "color",
-              "brightness": 45,
-              "color": "#FFD700"
-            },
-            "idle": {
-              "action": "effect",
-              "brightness": 100,
-              "color": "#FFFFFF",
-              "effect_name": "led_effect panel_idle"
-            },
-            "paused": {
-              "action": "color",
-              "brightness": 45,
-              "color": "#FF6B35"
-            },
-            "printing": {
-              "action": "effect",
-              "brightness": 100,
-              "color": "#FFFFFF",
-              "effect_name": "led_effect progress_bar"
-            }
-          }
+          "mappings": {}
         },
         "color_presets": [
           "#FFFFFF",
