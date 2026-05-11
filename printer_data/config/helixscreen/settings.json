@@ -216,6 +216,11 @@
               "color": "#FFFFFF",
               "effect_name": "led_effect panel_idle"
             },
+            "paused": {
+              "action": "color",
+              "brightness": 100,
+              "color": "#FFFFFF"
+            },
             "printing": {
               "action": "effect",
               "brightness": 100,
