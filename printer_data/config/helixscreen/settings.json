@@ -205,6 +205,11 @@
         "auto_state": {
           "enabled": true,
           "mappings": {
+            "heating": {
+              "action": "color",
+              "brightness": 48,
+              "color": "#FF6B35"
+            },
             "idle": {
               "action": "effect",
               "brightness": 100,
