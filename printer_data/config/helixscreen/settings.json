@@ -256,7 +256,9 @@
         "macro_devices": [],
         "selected": [],
         "selected_strips": [
-          "neopixel statusbar"
+          "neopixel statusbar",
+          "output_pin caselight_left",
+          "output_pin caselight_right"
         ],
         "startup_brightness": 26,
         "strip": "neopixel statusbar"
