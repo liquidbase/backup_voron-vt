@@ -213,7 +213,7 @@
             "paused": {
               "action": "color",
               "brightness": 100,
-              "color": "#FFFFFF"
+              "color": "#9C27B0"
             },
             "printing": {
               "action": "effect",
