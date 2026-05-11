@@ -204,7 +204,14 @@
       "leds": {
         "auto_state": {
           "enabled": true,
-          "mappings": {}
+          "mappings": {
+            "idle": {
+              "action": "effect",
+              "brightness": 100,
+              "color": "#FFFFFF",
+              "effect_name": "led_effect panel_idle"
+            }
+          }
         },
         "color_presets": [
           "#FFFFFF",
