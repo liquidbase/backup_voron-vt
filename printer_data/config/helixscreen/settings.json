@@ -210,6 +210,11 @@
               "brightness": 100,
               "color": "#FFD700"
             },
+            "paused": {
+              "action": "color",
+              "brightness": 100,
+              "color": "#FFFFFF"
+            },
             "printing": {
               "action": "effect",
               "brightness": 100,
