@@ -207,7 +207,7 @@
           "mappings": {
             "complete": {
               "action": "color",
-              "brightness": 100,
+              "brightness": 49,
               "color": "#66BB6A"
             },
             "error": {
@@ -222,7 +222,7 @@
             },
             "paused": {
               "action": "color",
-              "brightness": 100,
+              "brightness": 48,
               "color": "#9C27B0"
             },
             "printing": {
