@@ -215,6 +215,12 @@
               "brightness": 100,
               "color": "#FFFFFF",
               "effect_name": "led_effect panel_idle"
+            },
+            "printing": {
+              "action": "effect",
+              "brightness": 100,
+              "color": "#FFFFFF",
+              "effect_name": "led_effect progress_bar"
             }
           }
         },
