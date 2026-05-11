@@ -207,7 +207,7 @@
           "mappings": {
             "complete": {
               "action": "color",
-              "brightness": 49,
+              "brightness": 54,
               "color": "#66BB6A"
             },
             "error": {
