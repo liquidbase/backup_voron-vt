@@ -209,6 +209,12 @@
               "action": "color",
               "brightness": 100,
               "color": "#FFD700"
+            },
+            "printing": {
+              "action": "effect",
+              "brightness": 100,
+              "color": "#FFFFFF",
+              "effect_name": "led_effect progress_bar"
             }
           }
         },
