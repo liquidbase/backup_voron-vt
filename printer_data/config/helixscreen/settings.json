@@ -249,7 +249,7 @@
           "#9C27B0",
           "#00BCD4"
         ],
-        "last_brightness": 24,
+        "last_brightness": 26,
         "last_color": "#FFFFFF",
         "last_white": 0.0,
         "led_on_at_start": true,
@@ -260,7 +260,7 @@
           "output_pin caselight_left",
           "output_pin caselight_right"
         ],
-        "startup_brightness": 24,
+        "startup_brightness": 26,
         "strip": "neopixel statusbar"
       },
       "moonraker_api_key": false,
