@@ -205,6 +205,11 @@
         "auto_state": {
           "enabled": true,
           "mappings": {
+            "complete": {
+              "action": "color",
+              "brightness": 100,
+              "color": "#FFFFFF"
+            },
             "error": {
               "action": "color",
               "brightness": 100,
