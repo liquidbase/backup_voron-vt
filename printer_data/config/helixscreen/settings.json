@@ -205,6 +205,11 @@
         "auto_state": {
           "enabled": true,
           "mappings": {
+            "error": {
+              "action": "color",
+              "brightness": 49,
+              "color": "#FF4444"
+            },
             "heating": {
               "action": "color",
               "brightness": 48,
