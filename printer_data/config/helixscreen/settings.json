@@ -218,8 +218,8 @@
             },
             "paused": {
               "action": "color",
-              "brightness": 100,
-              "color": "#FFFFFF"
+              "brightness": 50,
+              "color": "#FFD700"
             },
             "printing": {
               "action": "effect",
