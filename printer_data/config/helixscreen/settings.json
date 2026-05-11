@@ -217,7 +217,7 @@
             },
             "heating": {
               "action": "color",
-              "brightness": 46,
+              "brightness": 55,
               "color": "#FFD700"
             },
             "paused": {
