@@ -212,7 +212,7 @@
             },
             "error": {
               "action": "color",
-              "brightness": 25,
+              "brightness": 49,
               "color": "#FF4444"
             },
             "heating": {
