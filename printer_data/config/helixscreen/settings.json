@@ -207,17 +207,17 @@
           "mappings": {
             "complete": {
               "action": "color",
-              "brightness": 48,
+              "brightness": 50,
               "color": "#66BB6A"
             },
             "error": {
               "action": "color",
-              "brightness": 49,
+              "brightness": 50,
               "color": "#FF4444"
             },
             "heating": {
               "action": "color",
-              "brightness": 48,
+              "brightness": 50,
               "color": "#FF6B35"
             },
             "idle": {
@@ -249,7 +249,7 @@
           "#9C27B0",
           "#00BCD4"
         ],
-        "last_brightness": 26,
+        "last_brightness": 25,
         "last_color": "#FFFFFF",
         "last_white": 0.0,
         "led_on_at_start": true,
